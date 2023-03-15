@@ -6,4 +6,4 @@ Entregas año 2023
 * Mauricio Mellado, <maurimellado4@gmail.com>
 * Omar Neme, <omarnemechacras@gmail.com>
 
-[Este es mi link] (<https://www.linkedin.com/in/alvarobuccolini/>)
+[Este es mi linkedin](https://www.linkedin.com/)
