@@ -7,3 +7,4 @@ Entregas año 2023
 * Omar Neme, <omarnemechacras@gmail.com>
 
 [Este es mi linkedin](https://www.linkedin.com/)
+![Cambiar foto](WIN_20230315_19_38_27_Pro.jpg)
