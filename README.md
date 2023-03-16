@@ -1,4 +1,4 @@
-# Bimo
+# Bimol
 ## Técnicas y Herramientas Modernas 1
 Entregas año 2023
 * Álvaro Buccolini, <alvarobuccolini@gmail.com>
